@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeDigitaleKluis", "DigitaleKluis\DeDigitaleKluis.csproj", "{D38F53C1-C780-413A-8959-5F20B51D1821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitaleKluis.Tests", "DigitaleKluis.Tests\DigitaleKluis.Tests.csproj", "{AB177398-E37C-4610-A043-0F2CF6E13B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38F53C1-C780-413A-8959-5F20B51D1821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38F53C1-C780-413A-8959-5F20B51D1821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38F53C1-C780-413A-8959-5F20B51D1821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38F53C1-C780-413A-8959-5F20B51D1821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB177398-E37C-4610-A043-0F2CF6E13B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB177398-E37C-4610-A043-0F2CF6E13B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB177398-E37C-4610-A043-0F2CF6E13B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB177398-E37C-4610-A043-0F2CF6E13B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4D0ABE-2CE1-4E59-B254-D5BA8D4D5D80}
+	EndGlobalSection
+EndGlobal
